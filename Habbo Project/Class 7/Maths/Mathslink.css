@@ -1,0 +1,9 @@
+*{
+    margin: auto;
+}
+
+body{
+    background: linear-gradient(to top left,rgb(49, 221, 55),rgb(22, 178, 231));
+    height: 100%;
+    width: auto;
+}

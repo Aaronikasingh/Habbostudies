@@ -1,0 +1,8 @@
+*{
+    margin: auto;
+}
+
+#grad1{
+    background-color: red;
+    background-image: linear-gradient(red, yellow);
+}
